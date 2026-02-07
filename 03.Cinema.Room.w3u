@@ -1,14 +1,14 @@
 {"name": "CINEMA ROOM",
 "image":"https://i.ibb.co/LfkSp9d/1852.jpg",
 "url": "https://raw.githubusercontent.com/Af1web/SERIES/refs/heads/main/03.Cinema.Room.w3u",
-"author": "Black",
+"author": "Xuperlist",
 "stations": [
 
 {
-"name": "CAPITULO 1",
-"image": "https://pics.filmaffinity.com/El_Centro_Serie_de_TV-288954481-large.jpg",
-"url": "https://scorpions.ezplayer.me/#5zyra",
-"info": "2025[TINWORLD]",
+"name": "Der Tiger (El tanque)",
+"image": "https://pics.filmaffinity.com/Der_Tiger_El_tanque-614407026-large.jpg",
+"url": "https://scorpions.ezplayer.me/#3knm9",
+"info": "2026",
 "embed": "true",
 "referer":"https://scorpions.ezplayer.me",
 "origin": "https://scorpions.ezplayer.me",
@@ -18,10 +18,10 @@
 "import": "false"
 },
 {
-"name" : "Una batalla tras otra",
-"image" : "https://www.elseptimoarte.net/carteles/341/una_batalla_tras_otra_106260.jpg",
-"url" : "https://luluvid.com/e/l29cm3kud3bv",
-"info": "2025[TINWORLD]",
+"name" : "Gente que conocemos en vacaciones",
+"image" : "https://pics.filmaffinity.com/Gente_que_conocemos_en_vacaciones-556215202-large.jpg",
+"url" : "https://scorpions.ezplayer.me/#o53lj",
+"info": "2026",
 "embed": "true",
 "referer":"https://scorpions.ezplayer.me",
 "origin": "https://scorpions.ezplayer.me",
