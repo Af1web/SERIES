@@ -4,44 +4,32 @@
 "author": "Black",
 "stations": [
 
-{"name" : "Una batalla tras otra",
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/El_Centro_Serie_de_TV-288954481-large.jpg",
+"url": "https://scorpions.ezplayer.me/#5zyra",
+"info": "2025[TINWORLD]",
+"embed": "true",
+"referer":"https://scorpions.ezplayer.me",
+"origin": "https://scorpions.ezplayer.me",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+"isHost": "true",
+"online": "true",
+"import": "false"
+},
+{
+"name" : "Una batalla tras otra",
 "image" : "https://www.elseptimoarte.net/carteles/341/una_batalla_tras_otra_106260.jpg",
 "url" : "https://luluvid.com/e/l29cm3kud3bv",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
+"info": "2025[TINWORLD]",
+"embed": "true",
+"referer":"https://scorpions.ezplayer.me",
+"origin": "https://scorpions.ezplayer.me",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
 "isHost": "true",
 "online": "true",
-"import": false},
+"import": "false"
+}
+]
+}
 
-{"name" : "Frankenstein",
-"image" : "https://www.elseptimoarte.net/carteles/341/frankenstein_106436.jpg",
-"url" : "https://byseraguci.com/d/kz7i947ducm6/frankenstein", 
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false},
-
-{"name": "Ballerina",
-"image": "https://i.ibb.co/j49LnT4/ballerina.jpg",
-"url": "https://zpjid.com/d/va9em78fvn33",
-"info": "[2024][Acción]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false},
-
-{"name": "Expediente Warren: The Conjuring",
-"image": "https://www.elseptimoarte.net/carteles/341/expediente_warren_the_conjuring_21835.jpg",
-"url": "https://vidmoly.me/w/nlyizlgapi5o",
-"info": "[2013][Terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false},
