@@ -3,7 +3,7 @@
 "author": "By* ᘜᖇOᑌᑭ ᙭ᑌᑭᗴᖇᒪIՏT © *",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
 "url": "https://raw.githubusercontent.com/Af1web/SERIES/refs/heads/main/00.Series.Room.w3u",
-"telegram": "TINWORLD_3_0",
+"telegram": "",
 "info":"",
 "groups":
     [
@@ -11,15 +11,23 @@
 "name": "LA MALDICIÓN DE HILL HOUSE",
 "image": "https://i.postimg.cc/T1vTPrd9/MV5BOThh-N2M3Zjct-MGRi-Ni00NDIw-LWI5Njkt-MGRm-ZTMx-Mzc5MDE0Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
 "url": "https://raw.githubusercontent.com/Af1web/SERIES/refs/heads/main/Serie.El.Centro.w3u",
-"info":"2018[TINWORLD]",
+"info":"2018",
 "import": false
 },
 {
 "name": "TODAS LAS CRIATURAS GRANDES Y PEQUEÑAS",
 "image": "https://i.postimg.cc/NFj9Cj3H/MV5BMm-Jl-MTYx-Mz-At-OGUw-Yy00MDIw-LTk5NDUt-OWI3Nm-Vk-Njc5Mm-Iw-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
 "url": "https://raw.githubusercontent.com/Af1web/SERIES/refs/heads/main/Serie.El.Centro.w3u",
-"info":"2025[TINWORLD]",
+"info":"2025",
+"import": false
+},
+{
+"name": "MACHOS ALFA",
+"image": "https://i.postimg.cc/NFj9Cj3H/MV5BMm-Jl-MTYx-Mz-At-OGUw-Yy00MDIw-LTk5NDUt-OWI3Nm-Vk-Njc5Mm-Iw-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+"url": "https://raw.githubusercontent.com/Af1web/SERIES/refs/heads/main/Serie.Machos.Alfa.w3u",
+"info":"2025",
 "import": false
 }
+
 ]
 }
